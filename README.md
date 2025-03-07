@@ -32,6 +32,14 @@ Com uma interface interativa e intuitiva, ele permite que você escolha um gêne
   <img src="https://drive.google.com/uc?id=1nQkPp5pYy3Z3Beh9mNBnumtGBm6NvvZn" alt="Escolha" style="width: 30%; margin: 10px;">
 </div>
 
+🚨 Aviso de Direitos Autorais
+
+📌 Copyright (c) 2025 Andressa Prudente (@dessadev)Este projeto é protegido por direitos autorais. A cópia, modificação ou distribuição sem permissão são proibidas.
+
+Se precisar de permissão para uso, entre em contato:🔗 GitHub: dessadev
+
+
+
 
 
 
